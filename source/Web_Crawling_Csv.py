@@ -27,7 +27,7 @@ def get_csv() -> None:
     # csv 모듈을 사용하여 지정한 파일의 writer 객체를 가져온다.
     wr = csv.writer(file_name)
 
-    for page_num in range(1, 10):
+    for page_num in range(1, 6771):
         # 크롤링 할 홈페이지의 주소를 url 변수에 담는다.
         url = 'https://icis.me.go.kr/chmCls/chmClsView.do?hlhsn_sn=' + str(page_num)
         
