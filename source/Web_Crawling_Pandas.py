@@ -26,7 +26,7 @@ def get_text() -> None:
     # 첫 번째 행에 해당하는 요소들을 title_list에 담을 것이다.
     title_list = []
 
-    for page_num in range(1, 10):
+    for page_num in range(1, 6771):
         # 크롤링 할 홈페이지의 주소를 url 변수에 담는다.
         url = 'https://icis.me.go.kr/chmCls/chmClsView.do?hlhsn_sn=' + str(page_num)
 
