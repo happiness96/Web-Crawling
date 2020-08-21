@@ -8,4 +8,4 @@ Web Crawling, Text mining, Data mining (Using Python3)
 
 ### For more details, Please follow the link below.
 
-### https://foreverhappiness.me/category/Data%20Science
+### https://foreverhappiness.tistory.com/category/Data%20Science
